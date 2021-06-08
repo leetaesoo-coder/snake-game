@@ -1,3 +1,4 @@
+// snake movement direction management
 const SNAKE_WIDTH = 35;
 let direction = { x: SNAKE_WIDTH, y: 0 };
 let dir = { x: 0, y: 0 };
